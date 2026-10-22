@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jr Penetration Pentester THM/IV Web Application Security Fundamentals/1. Modern Web Stacks.md",
+                "file": "Jr Penetration Pentester THM/IV Web Application Security Fundamentals/2. Web Server Attacks-I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Modern Web Stacks"
+              "title": "2. Web Server Attacks-I"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "607b54a8b7a295e9",
@@ -202,8 +203,8 @@
   },
   "active": "ef30918362302900",
   "lastOpenFiles": [
-    "Jr Penetration Pentester THM/IV Web Application Security Fundamentals/2. Web Server Attacks-I.md",
     "Jr Penetration Pentester THM/IV Web Application Security Fundamentals/1. Modern Web Stacks.md",
+    "Jr Penetration Pentester THM/IV Web Application Security Fundamentals/2. Web Server Attacks-I.md",
     "Jr Penetration Pentester THM/IV Web Application Security Fundamentals",
     "Jr Penetration Pentester THM/V Burp Suite",
     "Jr Penetration Pentester THM/III. Nmap/4. Nmap Post Port Scans.md",
