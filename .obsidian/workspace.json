@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jr Penetration Pentester THM/V Burp Suite/2. Burp Suite Repeater.md",
+                "file": "Jr Penetration Pentester THM/V Burp Suite/3. Burp Suite Intruder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Burp Suite Repeater"
+              "title": "3. Burp Suite Intruder"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "ef30918362302900",
   "lastOpenFiles": [
-    "Jr Penetration Pentester THM/V Burp Suite/1.Burp Suite The Basics.md",
     "Jr Penetration Pentester THM/V Burp Suite/2. Burp Suite Repeater.md",
+    "Jr Penetration Pentester THM/V Burp Suite/3. Burp Suite Intruder.md",
+    "Jr Penetration Pentester THM/V Burp Suite/1.Burp Suite The Basics.md",
     "Jr Penetration Pentester THM/IV Web Application Security Fundamentals/3. Web Server Attacks-II.md",
     "Jr Penetration Pentester THM/IV Web Application Security Fundamentals/2. Web Server Attacks-I.md",
     "Jr Penetration Pentester THM/IV Web Application Security Fundamentals/1. Modern Web Stacks.md",
