@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jr Penetration Pentester THM/V Burp Suite/3. Burp Suite Intruder.md",
+                "file": "Jr Penetration Pentester THM/VI Web Application Vulnerabilities - I/2. CSRF Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Burp Suite Intruder"
+              "title": "2. CSRF Introduction"
             }
           }
         ]
@@ -203,8 +203,13 @@
   },
   "active": "ef30918362302900",
   "lastOpenFiles": [
-    "Jr Penetration Pentester THM/V Burp Suite/2. Burp Suite Repeater.md",
+    "Jr Penetration Pentester THM/V Burp Suite/4. Burp Suite  Other Modules.md",
+    "Jr Penetration Pentester THM/VI Web Application Vulnerabilities - I/2. CSRF Introduction.md",
     "Jr Penetration Pentester THM/V Burp Suite/3. Burp Suite Intruder.md",
+    "Jr Penetration Pentester THM/V Burp Suite/Untitled.md",
+    "Jr Penetration Pentester THM/VI Web Application Vulnerabilities - I/1. SQL Injection Introduction.md",
+    "Jr Penetration Pentester THM/VI Web Application Vulnerabilities - I",
+    "Jr Penetration Pentester THM/V Burp Suite/2. Burp Suite Repeater.md",
     "Jr Penetration Pentester THM/V Burp Suite/1.Burp Suite The Basics.md",
     "Jr Penetration Pentester THM/IV Web Application Security Fundamentals/3. Web Server Attacks-II.md",
     "Jr Penetration Pentester THM/IV Web Application Security Fundamentals/2. Web Server Attacks-I.md",
