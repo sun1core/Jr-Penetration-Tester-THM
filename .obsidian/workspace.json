@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jr Penetration Pentester THM/VI Web Application Vulnerabilities - I/4. Intro to SSRF ( Server-Side Request Forgery ).md",
+                "file": "Jr Penetration Pentester THM/VI Web Application Vulnerabilities - I/5. IDOR - ( Insecure Direct Object Reference ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Intro to SSRF ( Server-Side Request Forgery )"
+              "title": "5. IDOR - ( Insecure Direct Object Reference )"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "ef30918362302900",
   "lastOpenFiles": [
-    "Jr Penetration Pentester THM/VI Web Application Vulnerabilities - I/3. XSS Introduction.md",
     "Jr Penetration Pentester THM/VI Web Application Vulnerabilities - I/4. Intro to SSRF ( Server-Side Request Forgery ).md",
+    "Jr Penetration Pentester THM/VI Web Application Vulnerabilities - I/5. IDOR - ( Insecure Direct Object Reference ).md",
+    "Jr Penetration Pentester THM/VI Web Application Vulnerabilities - I/3. XSS Introduction.md",
     "Jr Penetration Pentester THM/VII Web Application Vulnerabilities - II/4. Command Injection.md",
     "Jr Penetration Pentester THM/VII Web Application Vulnerabilities - II/3. File Inclusion.md",
     "Jr Penetration Pentester THM/VII Web Application Vulnerabilities - II/2. Broken Authentication.md",
