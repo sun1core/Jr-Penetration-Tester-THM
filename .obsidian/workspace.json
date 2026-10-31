@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/2. OWASP Top 10 2025- Application Design Flaws.md",
+                "file": "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/3. OWASP Top 10 2025- Insecure Data Handling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. OWASP Top 10 2025- Application Design Flaws"
+              "title": "3. OWASP Top 10 2025- Insecure Data Handling"
             }
           }
         ]
@@ -203,9 +203,9 @@
   },
   "active": "ef30918362302900",
   "lastOpenFiles": [
+    "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/2. OWASP Top 10 2025- Application Design Flaws.md",
     "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/1. OWASP Top 10 2025- IAAA Failures - (Identity, Authentication, Authorisation & Accountability).md",
     "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/3. OWASP Top 10 2025- Insecure Data Handling.md",
-    "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/2. OWASP Top 10 2025- Application Design Flaws.md",
     "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)",
     "Jr Penetration Pentester THM/IX  OWASP TOP 10 (2025).md",
     "IX  OWASP TOP 10 (2025)",
