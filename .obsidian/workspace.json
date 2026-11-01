@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/4. n8n- CVE-2025-68613.md",
+                "file": "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/5. AD- BadSuccessor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. n8n- CVE-2025-68613"
+              "title": "5. AD- BadSuccessor"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "607b54a8b7a295e9",
@@ -202,11 +203,11 @@
   },
   "active": "ef30918362302900",
   "lastOpenFiles": [
+    "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/4. n8n- CVE-2025-68613.md",
     "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/7. CVE-2026-42945- Nginx Rift.md",
     "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/6. CVE-2026-46300- Fragnesia.md",
     "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/5. AD- BadSuccessor.md",
     "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/3. Basic Vulnerability Identification Techniques.md",
-    "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/4. n8n- CVE-2025-68613.md",
     "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/3. OWASP Top 10 2025- Insecure Data Handling.md",
     "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/2. OWASP Top 10 2025- Application Design Flaws.md",
     "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/1. OWASP Top 10 2025- IAAA Failures - (Identity, Authentication, Authorisation & Accountability).md",
