@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/3. OWASP Top 10 2025- Insecure Data Handling.md",
+                "file": "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/7. CVE-2026-42945- Nginx Rift.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. OWASP Top 10 2025- Insecure Data Handling"
+              "title": "7. CVE-2026-42945- Nginx Rift"
             }
           }
         ]
@@ -203,14 +203,18 @@
   },
   "active": "ef30918362302900",
   "lastOpenFiles": [
+    "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/6. CVE-2026-46300- Fragnesia.md",
+    "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/7. CVE-2026-42945- Nginx Rift.md",
+    "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/5. AD- BadSuccessor.md",
+    "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/3. Basic Vulnerability Identification Techniques.md",
+    "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/4. n8n- CVE-2025-68613.md",
+    "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/3. OWASP Top 10 2025- Insecure Data Handling.md",
     "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/2. OWASP Top 10 2025- Application Design Flaws.md",
     "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/1. OWASP Top 10 2025- IAAA Failures - (Identity, Authentication, Authorisation & Accountability).md",
-    "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/3. OWASP Top 10 2025- Insecure Data Handling.md",
     "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)",
     "Jr Penetration Pentester THM/IX  OWASP TOP 10 (2025).md",
     "IX  OWASP TOP 10 (2025)",
     "Jr Penetration Pentester THM/VIII -  Vulnerability Knowledge/4. NoScope Finding RCE.md",
-    "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/3. Basic Vulnerability Identification Techniques.md",
     "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/2. Vulnerability Scanning Tools.md",
     "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/1. Understanding Vulnerability Databases.md",
     "Jr Penetration Pentester THM/G Web Application Vulnerabilities - II/5. API Pentesting ( Application Programming Interface ).md",
@@ -231,10 +235,6 @@
     "Jr Penetration Pentester THM/F Web Application Vulnerabilities - I/1. SQL Injection Introduction.md",
     "Jr Penetration Pentester THM/F Web Application Vulnerabilities - I",
     "Jr Penetration Pentester THM/E Burp Suite/2. Burp Suite Repeater.md",
-    "Jr Penetration Pentester THM/E Burp Suite/1.Burp Suite The Basics.md",
-    "Jr Penetration Pentester THM/D Web Application Security Fundamentals/3. Web Server Attacks-II.md",
-    "Jr Penetration Pentester THM/D Web Application Security Fundamentals/2. Web Server Attacks-I.md",
-    "Jr Penetration Pentester THM/D Web Application Security Fundamentals/1. Modern Web Stacks.md",
     "Jr Penetration Pentester THM/D Web Application Security Fundamentals",
     "Jr Penetration Pentester THM/E Burp Suite",
     "Rabin",
