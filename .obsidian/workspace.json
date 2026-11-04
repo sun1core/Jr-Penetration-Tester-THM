@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/7. CVE-2026-42945- Nginx Rift.md",
+                "file": "Jr Penetration Pentester THM/J - Password Attacks/1. Phishing Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. CVE-2026-42945- Nginx Rift"
+              "title": "1. Phishing Basics"
             }
           }
         ]
@@ -203,10 +203,15 @@
   },
   "active": "ef30918362302900",
   "lastOpenFiles": [
+    "Jr Penetration Pentester THM/J - Password Attacks/4. Password Cracking.md",
+    "Jr Penetration Pentester THM/J - Password Attacks/3. Introduction to Wordlists.md",
+    "Jr Penetration Pentester THM/J - Password Attacks/2. Hydra.md",
+    "Jr Penetration Pentester THM/J - Password Attacks/1. Phishing Basics.md",
+    "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/7. CVE-2026-42945- Nginx Rift.md",
+    "Jr Penetration Pentester THM/J - Password Attacks",
     "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/6. CVE-2026-46300- Fragnesia.md",
     "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/5. AD- BadSuccessor.md",
     "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/4. n8n- CVE-2025-68613.md",
-    "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/7. CVE-2026-42945- Nginx Rift.md",
     "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/3. Basic Vulnerability Identification Techniques.md",
     "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/3. OWASP Top 10 2025- Insecure Data Handling.md",
     "Jr Penetration Pentester THM/I  OWASP Top 10 (2025)/2. OWASP Top 10 2025- Application Design Flaws.md",
@@ -230,11 +235,7 @@
     "Untitled",
     "Jr Penetration Pentester THM/F Web Application Vulnerabilities - I/2. CSRF Introduction.md",
     "Jr Penetration Pentester THM/E Burp Suite/4. Burp Suite  Other Modules.md",
-    "Jr Penetration Pentester THM/E Burp Suite/3. Burp Suite Intruder.md",
-    "Jr Penetration Pentester THM/V Burp Suite/Untitled.md",
-    "Jr Penetration Pentester THM/F Web Application Vulnerabilities - I/1. SQL Injection Introduction.md",
     "Jr Penetration Pentester THM/F Web Application Vulnerabilities - I",
-    "Jr Penetration Pentester THM/E Burp Suite/2. Burp Suite Repeater.md",
     "Jr Penetration Pentester THM/D Web Application Security Fundamentals",
     "Jr Penetration Pentester THM/E Burp Suite",
     "Rabin",
