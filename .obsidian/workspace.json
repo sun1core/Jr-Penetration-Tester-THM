@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jr Penetration Pentester THM/J - Password Attacks/2. Hydra.md",
+                "file": "Jr Penetration Pentester THM/J - Password Attacks/3. Introduction to Wordlists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Hydra"
+              "title": "3. Introduction to Wordlists"
             }
           }
         ]
@@ -203,10 +203,10 @@
   },
   "active": "ef30918362302900",
   "lastOpenFiles": [
+    "Jr Penetration Pentester THM/J - Password Attacks/2. Hydra.md",
     "Jr Penetration Pentester THM/J - Password Attacks/1. Phishing Basics.md",
     "Jr Penetration Pentester THM/J - Password Attacks/4. Password Cracking.md",
     "Jr Penetration Pentester THM/J - Password Attacks/3. Introduction to Wordlists.md",
-    "Jr Penetration Pentester THM/J - Password Attacks/2. Hydra.md",
     "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/7. CVE-2026-42945- Nginx Rift.md",
     "Jr Penetration Pentester THM/J - Password Attacks",
     "Jr Penetration Pentester THM/H -  Vulnerability Knowledge/6. CVE-2026-46300- Fragnesia.md",
