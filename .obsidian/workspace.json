@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jr Penetration Pentester THM/K  Metasploit and Exploitation/4. Metasploit- Payload Generation.md",
+                "file": "Jr Penetration Pentester THM/K  Metasploit and Exploitation/5. Exploitation and Weaponisation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Metasploit- Payload Generation"
+              "title": "5. Exploitation and Weaponisation"
             }
           }
         ]
@@ -203,13 +203,13 @@
   },
   "active": "ef30918362302900",
   "lastOpenFiles": [
+    "Jr Penetration Pentester THM/K  Metasploit and Exploitation/4. Metasploit- Payload Generation.md",
     "Jr Penetration Pentester THM/K  Metasploit and Exploitation/3. Metasploit- Post Exploitation.md",
     "Jr Penetration Pentester THM/K  Metasploit and Exploitation/2. Metasploit- Scanning and Exploitation.md",
     "Jr Penetration Pentester THM/K  Metasploit and Exploitation/1. Metasploit- The Basics.md",
     "Jr Penetration Pentester THM/K  Metasploit and Exploitation/7. Shell Payload Generation & Delivery.md",
     "Jr Penetration Pentester THM/K  Metasploit and Exploitation/6. Shells and Listeners Fundamentals.md",
     "Jr Penetration Pentester THM/K  Metasploit and Exploitation/5. Exploitation and Weaponisation.md",
-    "Jr Penetration Pentester THM/K  Metasploit and Exploitation/4. Metasploit- Payload Generation.md",
     "Jr Penetration Pentester THM/J - Password Attacks/4. Password Cracking.md",
     "Jr Penetration Pentester THM/K  Metasploit and Exploitation",
     "Jr Penetration Pentester THM/J - Password Attacks/3. Introduction to Wordlists.md",
