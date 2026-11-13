@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jr Penetration Pentester THM/L  Privilege Escalation/2. Linux Privilege Escalation- Enumeration.md",
+                "file": "Jr Penetration Pentester THM/K  Metasploit and Exploitation/6. Shells and Listeners Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Linux Privilege Escalation- Enumeration"
+              "title": "6. Shells and Listeners Fundamentals"
             }
           }
         ]
@@ -203,11 +203,11 @@
   },
   "active": "ef30918362302900",
   "lastOpenFiles": [
+    "Jr Penetration Pentester THM/L  Privilege Escalation/2. Linux Privilege Escalation- Enumeration.md",
     "Jr Penetration Pentester THM/L  Privilege Escalation/1. Host-Server Configuration Reviews.md",
     "Jr Penetration Pentester THM/L  Privilege Escalation/5. Windows Privilege Escalation.md",
     "Jr Penetration Pentester THM/L  Privilege Escalation/3. Linux Privilege Escalation- Basics.md",
     "Jr Penetration Pentester THM/L  Privilege Escalation/4. Linux Privilege Escalation- Automation.md",
-    "Jr Penetration Pentester THM/L  Privilege Escalation/2. Linux Privilege Escalation- Enumeration.md",
     "Jr Penetration Pentester THM/L  Privilege Escalation/Untitled",
     "Jr Penetration Pentester THM/K  Metasploit and Exploitation/5. Exploitation and Weaponisation.md",
     "Jr Penetration Pentester THM/L  Privilege Escalation",
